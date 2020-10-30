@@ -1,0 +1,9 @@
+.header {
+  background-color: #fff;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+  position: sticky;
+  width: 100vw;
+  height: 90px;
+}
